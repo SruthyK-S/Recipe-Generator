@@ -50,7 +50,7 @@ To use the Recipe Generator, follow these steps:
 ## Project Structure
 
 ```
-recipe-generator/
+Recipe-Generator/
 ├── app.py
 ├── requirements.txt
 ├── README.md
