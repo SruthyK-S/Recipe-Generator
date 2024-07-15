@@ -24,11 +24,11 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com//recipe-generator.git
+    git clone https://github.com/SruthyK-S/Recipe-Generator.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd recipe-generator
+    cd Recipe-Generator
     ```
 3. Install the required dependencies:
     ```sh
