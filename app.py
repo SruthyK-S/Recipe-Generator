@@ -6,7 +6,7 @@ st.title("Recipe Generator")
 def generate_recipe(ingredients):
     """Generates a recipe based on given ingredients using a recipe API."""
 
-    api_key = "41ffcb2d914e47269044d6b7af34c4dc"
+    api_key = "YOUR_API_KEY"
     base_url = "https://api.spoonacular.com/recipes/findByIngredients"
     params = {
         "apiKey": api_key,
