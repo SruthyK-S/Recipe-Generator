@@ -1,6 +1,3 @@
-Here's a README file for your Streamlit Recipe Generator project on GitHub:
-
----
 
 # Recipe Generator
 
